@@ -1,7 +1,7 @@
 # Prompt Injection Firewall
 
 **Live demo:** (https://772lxq0k0doe5.villa.momenapp.com/)
-**Demo video:** `<YOUR_VIDEO_URL>`
+**Demo video:** (https://youtu.be/-b4KaU64VBM)
 Built for **IceHacks 2026** (Best Deployed / Shipped App).
 
 > The app is built and hosted on [Momen](https://momen.app) (no-code). This repository holds the
